@@ -68,7 +68,7 @@ PHRETS provides PHP developers a way to integrate RETS functionality directly wi
 * HTTP Header management
 * Authentication
 * Session/Cookie management
-* PHP 5.6, 7.0, 7.1 and 7.2 supported
+* PHP 5.6, 7.0, 7.1 and 7.2  and 8.3 supported
 
 ### Installation
 
